@@ -34,7 +34,7 @@ Compile and Flash: Build the project and flash it onto the microcontroller using
 How to Use the Examples
 
 Clone the Repository:
-git clone https://github.com/your-username/bare-metal-programming.git
+git clone [https://github.com/your-username/bare-metal-programming.git](https://github.com/sonysunny0007/Bare-metal-STM32.git)
 cd bare-metal-programming
 Build the Example: Compile the blinky example using your IDE or command line.
 Flash to the Nucleo-F429ZI: Use your preferred flashing tool (e.g., ST-Link) to load the compiled binary onto the Nucleo-F429ZI board.
