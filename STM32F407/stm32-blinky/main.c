@@ -47,13 +47,13 @@ int main(void) {
   uint16_t led2 = PIN('A', 7);
   RCC->AHB1ENR |= BIT(PINBANK(led1));     // Enable GPIO clock for LED
   gpio_set_mode(led1, GPIO_MODE_OUTPUT);  // Set blue LED to output mode
-  gpio_set_mode(led2, GPIO_MODE_OUTPUT);  // Set blue LED to output mode
+//  gpio_set_mode(led2, GPIO_MODE_OUTPUT);  // Set blue LED to output mode
 
   while (1) {
         GPIO(0)->ODR ^= (1U << 6);  // Toggle PA6
         spin(999999);
-        GPIO(0)->ODR ^= (1U << 7);  // Toggle PA7
-        spin(999999);
+//        GPIO(0)->ODR ^= (1U << 7);  // Toggle PA7
+//        spin(999999);
     }
   return 0;
 }
