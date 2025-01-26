@@ -25,7 +25,7 @@ static void led_task(void) {  // Blink LED every BLINK_PERIOD_MS
 static void log_task(void) {  // Print a log every LOG_PERIOD_MS
   static uint64_t timer = 0;
   if (timer_expired(&timer, LOG_PERIOD_MS, s_ticks)) {
-    printf("tick: %5lu, CPU %lu MHz\n", (unsigned long) s_ticks,
+    printf("ticks: %5lu, CPU %lu MHz\n", (unsigned long) s_ticks,
            SystemCoreClock / 1000000);
   }
 }
