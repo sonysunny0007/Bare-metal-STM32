@@ -1,0 +1,179 @@
+
+Discarded input sections
+
+ .group         0x00000000        0xc /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .group         0x00000000        0xc /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .group         0x00000000        0xc /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .group         0x00000000        0xc /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .group         0x00000000        0xc /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .group         0x00000000        0xc /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .group         0x00000000        0xc /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .group         0x00000000        0xc /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .group         0x00000000        0xc /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .group         0x00000000        0xc /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .group         0x00000000        0xc /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .group         0x00000000        0xc /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .group         0x00000000        0xc /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .group         0x00000000        0xc /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .group         0x00000000        0xc /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .group         0x00000000        0xc /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .group         0x00000000        0xc /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .group         0x00000000        0xc /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .group         0x00000000        0xc /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .group         0x00000000        0xc /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .group         0x00000000        0xc /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .group         0x00000000        0xc /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .group         0x00000000        0xc /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .group         0x00000000        0xc /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .group         0x00000000        0xc /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .group         0x00000000        0xc /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .group         0x00000000        0xc /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .group         0x00000000        0xc /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .text          0x00000000        0x0 /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .data          0x00000000        0x0 /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .bss           0x00000000        0x0 /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .text.timer_expired
+                0x00000000       0x26 /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash            0x08000000         0x00200000         xr
+sram             0x20000000         0x00030000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+LOAD /Applications/ArmGNUToolchain/14.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+LOAD /Applications/ArmGNUToolchain/14.2.rel1/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m+fp/hard/libgcc.a
+                0x20030000                        _estack = (ORIGIN (sram) + LENGTH (sram))
+
+.vectors        0x08000000      0x1ac
+ *(.vectors)
+ .vectors       0x08000000      0x1ac /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+                0x08000000                tab
+
+.text           0x080001ac       0xcc
+ *(.text*)
+ .text.SysTick_Handler
+                0x080001ac       0x10 /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+                0x080001ac                SysTick_Handler
+ .text.startup.main
+                0x080001bc       0x80 /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+                0x080001bc                main
+ .text._reset   0x0800023c       0x3c /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+                0x0800023c                _reset
+
+.glue_7         0x08000278        0x0
+ .glue_7        0x08000278        0x0 linker stubs
+
+.glue_7t        0x08000278        0x0
+ .glue_7t       0x08000278        0x0 linker stubs
+
+.vfp11_veneer   0x08000278        0x0
+ .vfp11_veneer  0x08000278        0x0 linker stubs
+
+.v4_bx          0x08000278        0x0
+ .v4_bx         0x08000278        0x0 linker stubs
+
+.iplt           0x08000278        0x0
+ .iplt          0x08000278        0x0 /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+
+.rodata         0x08000278        0xf
+ *(.rodata*)
+ .rodata.main.str1.1
+                0x08000278        0xf /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+
+.rel.dyn        0x08000288        0x0
+ .rel.iplt      0x08000288        0x0 /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+
+.data           0x20000000        0x0 load address 0x08000287
+                0x20000000                        _sdata = .
+ *(.first_data)
+ *(.data SORT_BY_NAME(.data.*))
+                0x20000000                        _edata = .
+                0x08000287                        _sidata = LOADADDR (.data)
+
+.igot.plt       0x20000000        0x0 load address 0x08000287
+ .igot.plt      0x20000000        0x0 /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+
+.bss            0x20000000        0x4 load address 0x08000287
+                0x20000000                        _sbss = .
+ *(.bss SORT_BY_NAME(.bss.*) COMMON)
+ .bss.s_ticks   0x20000000        0x4 /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+                0x20000004                        _ebss = .
+                0x20000008                        . = ALIGN (0x8)
+                0x20000008                        _end = .
+OUTPUT(firmware.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x00000000      0x755
+ .debug_info    0x00000000      0x755 /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+
+.debug_abbrev   0x00000000      0x2b4
+ .debug_abbrev  0x00000000      0x2b4 /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+
+.debug_loclists
+                0x00000000      0x20d
+ .debug_loclists
+                0x00000000      0x20d /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+
+.debug_aranges  0x00000000       0x38
+ .debug_aranges
+                0x00000000       0x38 /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+
+.debug_rnglists
+                0x00000000       0x6b
+ .debug_rnglists
+                0x00000000       0x6b /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+
+.debug_macro    0x00000000     0x1ef1
+ .debug_macro   0x00000000      0x19b /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .debug_macro   0x0000019b      0xacc /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .debug_macro   0x00000c67       0x22 /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .debug_macro   0x00000c89       0x5b /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .debug_macro   0x00000ce4       0x2a /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .debug_macro   0x00000d0e       0x94 /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .debug_macro   0x00000da2       0x43 /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .debug_macro   0x00000de5      0x103 /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .debug_macro   0x00000ee8       0x3a /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .debug_macro   0x00000f22       0x57 /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .debug_macro   0x00000f79       0x6a /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .debug_macro   0x00000fe3      0x1df /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .debug_macro   0x000011c2       0x89 /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .debug_macro   0x0000124b      0x460 /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .debug_macro   0x000016ab       0x22 /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .debug_macro   0x000016cd       0x16 /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .debug_macro   0x000016e3       0xa5 /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .debug_macro   0x00001788       0x9b /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .debug_macro   0x00001823      0x364 /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .debug_macro   0x00001b87       0x16 /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .debug_macro   0x00001b9d       0x4a /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .debug_macro   0x00001be7       0x34 /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .debug_macro   0x00001c1b       0x10 /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .debug_macro   0x00001c2b       0x58 /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .debug_macro   0x00001c83       0x8e /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .debug_macro   0x00001d11       0x1c /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .debug_macro   0x00001d2d      0x185 /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .debug_macro   0x00001eb2       0x16 /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+ .debug_macro   0x00001ec8       0x29 /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+
+.debug_line     0x00000000      0x586
+ .debug_line    0x00000000      0x586 /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+
+.debug_str      0x00000000     0x854c
+ .debug_str     0x00000000     0x854c /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+                               0x877a (size before relaxing)
+
+.comment        0x00000000       0x45
+ .comment       0x00000000       0x45 /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+                                 0x46 (size before relaxing)
+
+.ARM.attributes
+                0x00000000       0x34
+ .ARM.attributes
+                0x00000000       0x34 /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
+
+.debug_frame    0x00000000       0x60
+ .debug_frame   0x00000000       0x60 /var/folders/f2/2t2g0r7s3892_prkwgyvg_pr0000gn/T//cc8slrP5.o
